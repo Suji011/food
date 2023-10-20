@@ -1,0 +1,29 @@
+.row{
+    background-color: aqua;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* space around, space-evenly,space between*/
+    flex-direction: row-reverse;
+    /*row,row-reverse,column,column reverse*/
+
+}
+.col{
+    background-color: blueviolet;
+    width: 100%;
+    height: 400px;
+    margin: 10px;
+}
+.col1{
+    background-color: brown;
+}
+.col2{
+    background-color: blue;
+
+}
+.col3{
+    background-color: burlywood;
+}
+

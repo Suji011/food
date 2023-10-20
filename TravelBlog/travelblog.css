@@ -1,0 +1,33 @@
+
+#nav{
+    border-bottom: 7px solid rgb(255, 115, 0);
+}
+#subscribe{
+    border-bottom: 5px solid black;
+}
+h2{
+    margin: 5px;
+    padding: 5px;
+    text-size-adjust: 1cm;
+}
+
+.button {
+    border: 3px  solid rgb(240, 112, 6) ;
+    width: 350px;
+    height: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.button  .write{
+    color: rgb(213, 131, 8);
+    font-size: 30px;
+  
+    width: 500px;
+padding: 5px;
+}
+.button1{
+    border: 3px  solid rgb(156, 72, 4) ;
+    width: 2cm;
+    height: 3cm;
+    background-color: chocolate;
+}

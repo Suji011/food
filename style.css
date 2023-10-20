@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: cadetblue;
+    width: 100%;
+    height: 50px;
+}
+header h2{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+h2:hover{
+    color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.row{
+    background-color: aqua;
+    width: 100%;
+    height: 800px;
+    align-items:center ;
+    display: flex;
+    justify-content: space-around;
+}
+.col{
+    background-color: rgb(24, 146, 146);
+    width: 300px;
+    height: 600px;
+    margin-left: 10px;
+}
+img{
+    height: 200px;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+h4,h5{
+    text-align: center;
+    color: cornsilk;
+}
+#btn{
+    color: rgb(85, 21, 146);
+    background-color: rgb(174, 141, 206);
+    padding: 5px;
+    margin-left: 50px;
+}
+footer, p{
+    background-color: rgb(6, 184, 134);
+    width: 100%;
+    height: 50px;
+    color: blanchedalmond;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+.banner{
+    background-image: url(https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bm92ZWx8ZW58MHx8MHx8fDA%3D&w=1000&q=80);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

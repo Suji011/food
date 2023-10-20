@@ -1,0 +1,123 @@
+h2{
+    color: rgb(0, 38, 255);
+}
+
+div{
+    float: left;
+    background-color: rgb(145, 47, 62);
+    color: blueviolet;
+    border: 5px double crimson;
+    width: 10%;
+    height: 800px;
+    margin: 20px;
+    margin-left: 30px;
+    padding: 50px;
+    
+}
+img{
+    border-radius: 50%;
+    padding: 20px;
+}
+.para{
+    color: rgb(184, 233, 6);
+    font-style: normal;
+    font-weight: bold;
+    font-size: large;
+}
+.Taj-Mahal{
+    float: left;
+    background-color: rgb(11, 160, 240);
+    color: rgb(153, 203, 5);
+    border: 5px solid rgb(1, 1, 1);
+    width: 10%;
+    height: 800px;
+    margin: 20px;
+    margin-left: 30px;
+    padding: 50px;
+
+    .para{
+        color: rgb(233, 135, 6);
+        font-style: normal;
+        font-weight: bold;
+        font-size: large;
+    }
+    img{
+        border-radius: 50%;
+        padding: 40px;
+    }
+    
+}
+
+
+.et{
+    float: left;
+    background-color: rgb(203, 17, 141);
+    color: rgb(153, 203, 5);
+    border: 5px solid rgb(17, 16, 15);
+    width: 10%;
+    height: 800px;
+    margin: 20px;
+    margin-left: 30px;
+    padding: 50px;
+
+    .para{
+        color: rgb(165, 233, 6);
+        font-style: normal;
+        font-weight: bold;
+        font-size: large;
+    }
+    img{
+        border-radius: 50%;
+        padding: 40px;
+    }
+    
+}
+
+.sl{
+    float: left;
+    background-color: rgb(7, 202, 7);
+    color: rgb(153, 203, 5);
+    border: 5px solid rgb(7, 7, 7);
+    width: 10%;
+    height: 800px;
+    margin: 20px;
+    margin-left: 30px;
+    padding: 50px;
+
+    .para{
+        color: rgb(6, 118, 60);
+        font-style: normal;
+        font-weight: bold;
+        font-size: large;
+    }
+    img{
+        border-radius: 50%;
+        padding: 40px;
+    }
+    
+}
+.cm{
+    float: left;
+    background-color: rgb(202, 7, 20);
+    color: rgb(153, 203, 5);
+    border: 5px solid rgb(6, 6, 6);
+    width: 10%;
+    height: 800px;
+    margin: 20px;
+    margin-left: 30px;
+    padding: 50px;
+
+    .para{
+        color: rgb(6, 118, 60);
+        font-style: normal;
+        font-weight: bold;
+        font-size: large;
+    }
+    img{
+        border-radius: 50%;
+        padding: 40px;
+    }
+    
+}
+
+    

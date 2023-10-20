@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+/*Tag selector*/
+h1{
+    color: aqua;
+}
+/*id selector*/
+#head{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.para{
+    color: brown;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+/*Group selector*/
+ p,h4,ol{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ /*Pseudoclass selector*/
+ h1:hover{
+    color: chocolate;
+    background-color: cadetblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ /*Pseudoelement selector*/
+
+ p::first-line{
+    color: blue;
+ }
